@@ -1,4 +1,4 @@
-# SvelteKit: From Zero to Hero
+# Learn full-stack web development with SvelteKit: From Zero to Hero
 
 Welcome to the SvelteKit-0-to-Hero repository! If you're looking to dive into web development with SvelteKit, you're in the right place. This repository is designed to guide beginners through the process of learning SvelteKit in a fast and straightforward manner.
 
