@@ -29,6 +29,13 @@ To get started with SvelteKit, follow these steps:
 ## Shipping and Deploying
 
 
+Cloudflare
+
+
+DigitalOcean
+  **PocketBase
+
+
 
 
 
